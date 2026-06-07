@@ -2,7 +2,7 @@
 ## Objective
 The objective of this project is to analyze India's CPI (Consumer Price Index) inflation trends using data from the Government of India. The study aims to identify the major contributors to inflation, examine year-over-year inflation patterns, analyze food inflation trends, assess the impact of COVID-19 on consumer prices, and evaluate the relationship between imported oil prices and inflation. Through data analysis and visualization in Excel, the project provides insights into the key factors influencing inflation in India.
 ## Dataset used
-<a href=""></a>
+<a href="https://github.com/Deepak-NEGII/India-CPI-Inflation-Case-Study/blob/main/All_India_Index_Upto_April23%20(1).csv"></a>
 ## Questions
 - Which broad category contributes the most to overall CPI inflation in India?
 - How have Year-over-Year (YoY) inflation rates changed from 2017 onwards, and were there any significant periods of high inflation?
