@@ -32,5 +32,3 @@ The objective of this project is to analyze India's CPI (Consumer Price Index) i
 ## Conclusion
 This project analyzed CPI inflation trends in India and identified the key factors influencing inflation. Food emerged as the major contributor to inflation, while inflation levels increased significantly during and after the COVID-19 period. The analysis also showed that imported oil prices had a noticeable impact on inflation, particularly in the Transport & Communication category. Overall, the study highlights the influence of food prices, global oil prices, and economic disruptions on India's inflation trends.
 
-## Conclusion
-This project explored customer shopping behavior and identified key trends in revenue, customer segments, product performance, and purchasing preferences. The insights gained can help businesses improve marketing strategies, enhance customer engagement, and make data-driven decisions to drive sales growth.
